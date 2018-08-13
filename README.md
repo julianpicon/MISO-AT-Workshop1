@@ -2,7 +2,17 @@
 
 Your First Progressive Web App
 
-El presente taller tiene como objetivo el desarrollo de una aplicación web progresiva a partir de una aplicación esqueleto, en la cual se le van realizando las modificaciones para lograr el objetivo establecido.
+El presente taller tiene como objetivo el desarrollo de una aplicación web progresiva a partir de una aplicación esqueleto, en la cual se le van realizando las siguientes modificaciones:
+
+ 1. Inyección datos primer reload
+ 2. Guardar estación cada vez que es agregada
+ 3. Service worker
+ 4. Guardar AppShell en cache haciendo uso de Service Worker
+ 5. Guardar horarios usando Service Workers
+ 6. Integración nativa
+ 7. Despliegue Firebase
+ 8. IndexedDB
+ 9. SWPrecache
  
 https://miso-4208-labs.gitlab.io/talleres/taller1.html
 
