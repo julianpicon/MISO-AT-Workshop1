@@ -1,6 +1,8 @@
 # MISO-AT-Workshop 1
 
 Your First Progressive Web App
+
+El presente taller tiene como objetivo el desarrollo de una aplicación web progresiva a partir de una aplicación esqueleto, en la cual se le van realizando las modificaciones para lograr el objetivo establecido.
  
 https://miso-4208-labs.gitlab.io/talleres/taller1.html
 
