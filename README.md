@@ -29,9 +29,9 @@ https://programacion.net/articulo/como_mejorar_indexeddb_con_localforage_1830
 
 ![Alt text](screenshots/7.png)
 
-Despliegue firebase:
-
 ![Alt text](screenshots/8.png)
+
+Despliegue firebase:
 
 ![Alt text](screenshots/9.png)
 
