@@ -1,4 +1,4 @@
-# MISO-AT-Taller1.1
+# MISO-AT-Workshop 1
 
 Your First Progressive Web App
  
