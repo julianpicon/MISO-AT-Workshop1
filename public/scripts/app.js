@@ -99,6 +99,7 @@
         }
 
         if (app.isLoading) {
+            window.cardLoadTime = performance.now();
             app.spinner.setAttribute('hidden', true);
             app.container.removeAttribute('hidden');
             app.isLoading = false;
@@ -136,6 +137,8 @@
 
         var request = new XMLHttpRequest();
         request.onreadystatechange = function () {
+            window.APIRequestTime = performance.now();
+            console.log("vwindow.APIRequestTime: " + window.APIRequestTime);
             if (request.readyState === XMLHttpRequest.DONE) {
                 if (request.status === 200) {
                     var response = JSON.parse(request.response);
